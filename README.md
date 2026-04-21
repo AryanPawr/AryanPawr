@@ -15,18 +15,18 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git,github,vscode,bash,react,fastapi&theme=dark" />
-  </a>
+🛠️ Skills & Tools
+<p align="left"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git,github,vscode,bash,react,fastapi&theme=dark" /> 
+  </a> 
 </p>
+Security: Burp Suite · Metasploit · Wireshark · Nmap · Kali Linux · Splunk (lab)
+Frameworks: OWASP · MITRE ATT&CK · CVSS · PTES · Zero Trust Architecture
+AI: Generative AI (Claude, Codex, Kimi, Gemini)
+Cloud & Platforms: Docker · AWS Fundamentals · Microsoft Sentinel (fundamentals)
 
-**Security:** Burp Suite · Metasploit · Wireshark · Nmap · Kali Linux · Splunk (lab)  
-**Frameworks:** OWASP · MITRE ATT&CK · CVSS · PTES · Zero Trust Architecture  
-**AI:** Generative AI  
-**Cloud & Platforms:** Docker · AWS Fundamentals · Microsoft Sentinel (fundamentals)
+
 
 ---
 
