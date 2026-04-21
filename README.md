@@ -25,6 +25,7 @@
 
 **Security:** Burp Suite · Metasploit · Wireshark · Nmap · Kali Linux · Splunk (lab)  
 **Frameworks:** OWASP · MITRE ATT&CK · CVSS · PTES · Zero Trust Architecture  
+**AI:** Generative AI  
 **Cloud & Platforms:** Docker · AWS Fundamentals · Microsoft Sentinel (fundamentals)
 
 ---
