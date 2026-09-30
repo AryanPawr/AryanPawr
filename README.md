@@ -70,7 +70,6 @@ Virtual enterprise lab simulating 5+ vulnerable services. Identified and exploit
 ## 🔧 Currently Working On
 
 - 🛡️ ZTA Guard — Phase 2: AI-generated fix recommendations + PyPI publishing
-- 📜 CompTIA Security+ (Target: Aug 2026)
 - 🌐 Expanding PhishGuard threat intelligence ruleset
 
 ---
